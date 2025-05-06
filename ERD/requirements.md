@@ -4,7 +4,7 @@
 
 Below is the Entity-Relationship Diagram (ERD) for an airbnb clone project:
 
-![Airbnb Clone Database ERD](airbnb-erd.png)
+![Airbnb Clone Database ERD](airbnb-dbdiagram.png)
 
 ## Database Requirements
 
